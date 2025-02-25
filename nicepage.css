@@ -13277,7 +13277,6 @@ section.u-image:not(.u-hover-box),
 .u-overlap .u-header {
   position: absolute;
   top: 0;
-  right: 0;
   left: 0;
 }
 .u-header.u-sticky,
